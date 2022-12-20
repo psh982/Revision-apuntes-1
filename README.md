@@ -64,6 +64,28 @@ algun elemento como texto
 
 ![image](https://user-images.githubusercontent.com/113420563/208620326-7e9c20c6-2b03-4af0-8623-dea03356fd98.png)
 
+para decorar el textp tenemos o quitar decoracion
+
+![image](https://user-images.githubusercontent.com/113420563/208620981-0beb2a04-9c89-4274-8727-ad194fcf7b97.png)
+
+para poner fondo de pantalla
+
+![image](https://user-images.githubusercontent.com/113420563/208621087-b37a6c7e-3347-4dc9-861c-fb16ea638d2a.png)
+
+para poner color a un elemento
+
+![image](https://user-images.githubusercontent.com/113420563/208621203-01bdc621-8ea1-4b93-9153-cc7fc854f0f7.png)
+
+Tambien podemos modificar la letra con google fonts
+ponidendo esto en el css
+
+![image](https://user-images.githubusercontent.com/113420563/208621789-27902ef4-1fb5-423b-9ffc-da74bba38405.png)
+
+y esto en el html
+
+![image](https://user-images.githubusercontent.com/113420563/208621846-0f316b32-06ab-406c-baa9-9cd9411e7a3c.png)
+
+
 
 
 
