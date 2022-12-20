@@ -50,5 +50,20 @@ div: Capa. Es tracta d’una etiqueta de tipus bloc sense significat semàntic q
 
 
 # CSS #
+Tenemos varias maneras de vincular los css con el documento html:
+
+id
+
+![image](https://user-images.githubusercontent.com/113420563/208620095-e0624639-e73a-42d4-bef6-857dd6fb76fa.png)
+
+clase
+
+![image](https://user-images.githubusercontent.com/113420563/208620233-a3768559-a8b6-40a7-9ae3-8650520f79c2.png)
+
+algun elemento como texto
+
+![image](https://user-images.githubusercontent.com/113420563/208620326-7e9c20c6-2b03-4af0-8623-dea03356fd98.png)
+
+
 
 
