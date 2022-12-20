@@ -87,7 +87,7 @@ y esto en el html
 
 Los elemnotos div los podemos modificar con 
 
-![image](https://user-images.githubusercontent.com/113420563/208622446-03b259ab-60ed-4840-976a-f243e0c12f49.png)
+![image](https://user-images.githubusercontent.com/113420563/208622855-3c174b98-e2a1-40fd-8081-283e54bdbfdc.png)
 
 tambien los margenes del div con otos elementos
 
@@ -95,6 +95,8 @@ tambien los margenes del div con otos elementos
 
 y los margenes dentro del div
 
+![image](https://user-images.githubusercontent.com/113420563/208622446-03b259ab-60ed-4840-976a-f243e0c12f49.png)
 
+con width y height podemos modificar el tamaño de las imagenes
 
 
