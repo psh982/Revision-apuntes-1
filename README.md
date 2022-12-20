@@ -85,6 +85,15 @@ y esto en el html
 
 ![image](https://user-images.githubusercontent.com/113420563/208621846-0f316b32-06ab-406c-baa9-9cd9411e7a3c.png)
 
+Los elemnotos div los podemos modificar con 
+
+![image](https://user-images.githubusercontent.com/113420563/208622446-03b259ab-60ed-4840-976a-f243e0c12f49.png)
+
+tambien los margenes del div con otos elementos
+
+![image](https://user-images.githubusercontent.com/113420563/208622646-3315e5c7-49a3-46eb-beb1-0b18a680a7dd.png)
+
+y los margenes dentro del div
 
 
 
