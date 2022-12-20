@@ -10,15 +10,26 @@ tiene que empezar el documento (en es english) y tiene que acabar en html
 
 Todos los html tienen un head que es la parte de arriba de una pagina
 
+para poner una foto en el head
+
+![image](https://user-images.githubusercontent.com/113420563/208623813-4084b2b2-4b06-443d-ae10-c0d4f734aaa6.png)
+
 Los meta son para modificar el head 
+
+para poner un titulo en el head
+
+![image](https://user-images.githubusercontent.com/113420563/208623900-d6ac9f9f-dbf4-4918-ac64-d451b4c6195b.png)
+
 
 Y tambien tienen que tener un body que es el resto de la pagina
 
 Si quieres especificar que se trata de un párrafo, podrías encerrar el texto con la etiqueta de párrafo (p)
 
-![image](https://user-images.githubusercontent.com/113420563/208618695-859d9542-3de6-493a-b18d-44dfd57e2f2a.png)
+![image](https://user-images.githubusercontent.com/113420563/208623433-e75abcea-1ad3-4470-a6d9-13c6adf42d7c.png)
 
 para poner una imagen en la pagina
+
+![image](https://user-images.githubusercontent.com/113420563/208618695-859d9542-3de6-493a-b18d-44dfd57e2f2a.png)
 
 Los elementos h* son para hacer titulos de una pagina. Cuanto menor sea el numero mas grande sera el titulo
 
@@ -98,5 +109,6 @@ y los margenes dentro del div
 ![image](https://user-images.githubusercontent.com/113420563/208622446-03b259ab-60ed-4840-976a-f243e0c12f49.png)
 
 con width y height podemos modificar el tamaño de las imagenes
+
 
 
